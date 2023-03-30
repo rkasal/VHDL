@@ -1,0 +1,17 @@
+Vivado Simulator 2016.1
+Time resolution is 1 ps
+Failure: SIM DONE
+Time: 9750 us  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 9750 us : File "C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 87
+Failure: SIM DONE
+Time: 19500 us  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 19500 us : File "C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 87
+Failure: SIM DONE
+Time: 9750 us  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 9750 us : File "C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 87
+Failure: SIM DONE
+Time: 19500 us  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 19500 us : File "C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 87
+Failure: SIM DONE
+Time: 9750 us  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 9750 us : File "C:/Users/Kasal/Desktop/xilinx_example/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 87
