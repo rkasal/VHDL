@@ -1,6 +1,6 @@
 # VHDL 
 - Histogram Calculator
-- İmage Pad block
+- İmage Pad Block
 - UART 
 - Smoothing Filter
 - RAM, FIFO
